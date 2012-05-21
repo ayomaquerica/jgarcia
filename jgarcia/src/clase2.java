@@ -1,7 +1,13 @@
 
 public class clase2 {
 	
-	public void método1_clase2
+	public void método1_clase2{
+		
+	}
+	
+	public void método_rama_master_clase2{
+		
+	}
 
 	/**
 	 * @param args
