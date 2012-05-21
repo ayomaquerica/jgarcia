@@ -4,6 +4,10 @@ public class clase1 {
 	public void metodo1_clase1{
 		
 	}
+	
+	public void método_rama1_clase1{
+		
+	}
 
 	/**
 	 * @param args
