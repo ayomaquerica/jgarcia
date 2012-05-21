@@ -1,5 +1,7 @@
 
 public class clase2 {
+	
+	public void método1_clase2
 
 	/**
 	 * @param args
